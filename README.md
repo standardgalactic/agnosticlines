@@ -11,6 +11,7 @@ I have an interest in:
  * symbolic execution
  * decompiler research
  * secure software development
+ * hardware/software exploit mitigations
  * memory safe languages (rust, zig, go)
  * vulnerability research (mobile & desktop)
  * system emulation
