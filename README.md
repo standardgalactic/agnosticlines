@@ -4,12 +4,20 @@ I'm agnosticlines, you probably know me elsewhere. I'm not a bot, I star a lot o
 
 I have an interest in:
  * reverse engineering
+ * os, hypervisor & browser internals
  * program analysis
+ * program synthesis
+ * fuzzing
+ * symbolic execution
+ * decompiler research
  * secure software development
- * vulnerability research
- * hypervisor development/system emulation
+ * memory safe languages (rust, zig, go)
+ * vulnerability research (mobile & desktop)
+ * system emulation
+ * red team tooling/implant development
  * backend development
- * network/system administration
+ * frontend development (still learning!)
+ * devops
  * self hosted software
 
 #### Contact
