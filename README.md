@@ -1,6 +1,6 @@
 ### Hi there! ✨
 
-I'm agnosticlines, you probably know me elsewhere. I'm not a bot, I star a lot of things and follow a lot of people but I am a human.
+I'm agnosticlines, if you're reading this you probably know me elsewhere. I'm not a bot, I star a lot of things and follow a lot of people but I am a human.
 
 I have an interest in:
  * reverse engineering
